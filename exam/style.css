@@ -1,0 +1,69 @@
+footer{
+    text-align: center;
+    background-color: white;
+    position: relative;
+    width: 100%;
+}
+article{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 1em;
+    float: inline-start;
+    background-color: white;
+}
+body{
+    background-color: whitesmoke !important;
+}
+header{
+    background: black;
+    text-align: center;
+}
+.around  > li{
+    padding-left:30px;
+    padding-right:30px;
+    align-content: space-between;
+}
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+
+.home { 
+    background: url('https://www.boosted.dk/wp-content/uploads/2020/01/image.MQ6_.12.20190222165410.jpeg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.home > main{
+    background-color: white;
+    margin: 0 30% 0 30% ;
+    padding: 0px;
+}
+home > footer{
+    margin: 15% 0% 0% 0% ;
+}
+.row{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.accord{
+    background-image: url('images/gallery/honda+10.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 250px;
+    min-height: 100%;
+    width: 100%;
+    border-radius: 21px 21px 0 0;
+}
+.accord:hover{
+    background-image: url('images/gallery/accord.jpg');
+}
+.intend{
+  text-indent: 2em;
+}
+.titleIntend{
+    text-indent: 0.5em;
+}
